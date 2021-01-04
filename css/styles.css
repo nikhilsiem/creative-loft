@@ -153,9 +153,9 @@ strong {
 .btn-solid-lg {
   display: inline-block;
   padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-  border: 0.125rem solid #14bf98;
+  border: 0.125rem solid #281766;
   border-radius: 0.25rem;
-  background-color: #14bf98;
+  background-color: #281766;
   color: #fff;
   font: 700 0.75rem/0 'Montserrat', sans-serif;
   text-decoration: none;
@@ -163,8 +163,8 @@ strong {
 }
 
 .btn-solid-lg:hover {
-  background-color: transparent;
-  color: #14bf98;
+  background-color: #000;
+  color: #281766;
   text-decoration: none;
 }
 
@@ -792,13 +792,13 @@ input[type='checkbox'] {
 /*********************/
 .header {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
-    url('../images/header-background.jpg') center center no-repeat;
+    url('https://wallpaperaccess.com/full/1315478.jpg') center center no-repeat;
   background-size: cover;
 }
 
 .header .header-content {
-  padding-top: 8rem;
-  padding-bottom: 2.125rem;
+  padding-top: 6rem;
+  padding-bottom: 5.125rem;
   text-align: center;
 }
 
@@ -1944,12 +1944,13 @@ a:hover.back-to-top {
 
   /* Header */
   .header .header-content {
-    padding-top: 13rem;
-    padding-bottom: 7.5rem;
+    padding-top: 5rem;
+    padding-bottom: 6rem;
   }
 
   .header h1 {
     font: 700 3.5rem/4rem 'Montserrat', sans-serif;
+    margin-top: auto;
   }
   /* end of header */
 
@@ -2084,12 +2085,12 @@ a:hover.back-to-top {
 
   /* Header */
   .header .header-content {
-    padding-top: 14rem;
-    padding-bottom: 15rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
   }
 
   .header .text-container {
-    margin-top: 6.5rem;
+    margin-top: 2.5rem;
   }
   /* end of header */
 
@@ -2494,7 +2495,7 @@ a:hover.back-to-top {
   justify-content: center;
   text-align: center;
   color: white;
-  padding-bottom: 25px;
+  padding-bottom: 35px;
 }
 
 #menu {
@@ -2819,4 +2820,13 @@ li {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 15px;
+}
+
+.phone {
+  color: white;
+  text-decoration: none;
+}
+.phone:hover {
+  color: black;
+  text-decoration: none;
 }
