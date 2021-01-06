@@ -33,6 +33,7 @@ Table Of Contents:
 /******************************/
 /*     01. General Styles     */
 /******************************/
+
 body,
 html {
   width: 100%;
@@ -98,7 +99,7 @@ h6 {
 
 a {
   color:#1C84C5
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
@@ -794,13 +795,14 @@ input[type='checkbox'] {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
     url('https://wallpaperaccess.com/full/1315478.jpg') center center no-repeat;
   background-size: cover;
+  margin-top: -32px;
 }
 
 .header .header-content {
-  padding-top: 6rem;
+  padding-top: 9rem;
   padding-bottom: 5.125rem;
   text-align: center;
-  margin-top: 5rem;
+  margin-top: 3rem;
 }
 
 .header .text-container {
@@ -1275,6 +1277,8 @@ hr .thick-line {
   padding-top: 1rem;
   padding-bottom: 3rem;
   background-color: #1e94dd;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .form-1 .text-container {
@@ -1946,7 +1950,7 @@ a:hover.back-to-top {
 
   /* Header */
   .header .header-content {
-    padding-top: 5rem;
+    padding-top: 4rem;
     padding-bottom: 6rem;
     margin-top: 2rem;
   }
@@ -2091,7 +2095,7 @@ a:hover.back-to-top {
 
   /* Header */
   .header .header-content {
-    padding-top: 8rem;
+    padding-top: 4rem;
     padding-bottom: 8rem;
   }
 
@@ -2199,6 +2203,7 @@ a:hover.back-to-top {
   /* Call Me */
   .form-1 {
     padding-top: 7rem;
+    padding-left: 5px ;
   }
 
   .form-1 .text-container {
@@ -2846,7 +2851,7 @@ li {
   overflow: hidden;
   position: relative;
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 190px;
 }
 
 
@@ -3112,7 +3117,7 @@ li {
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
-  background-image: url('https://lh3.googleusercontent.com/proxy/-IQkNSKTpy1dyD2Ux6mYLCKo-qYa4ma1CXppl-8ixjrtFWyt6p9NhHEvJ3t2ev6Vk1Mk2FS1JO8PlwmmcUq5o1QfGTE1bqUrFMsYCPUn3iOXItungK38Cy_dXHwVX9BIYQxmqpACgiRqIYDcMsLHln6BryxfEgvdwRU');
+  background-image: url('https://ak.picdn.net/shutterstock/videos/21044938/thumb/1.jpg');
   margin-bottom: 30px;
   background-size: 100% auto;
   position: relative;
@@ -3294,3 +3299,82 @@ li {
 
 
 
+
+
+
+
+
+
+
+
+span.multiselect-native-select {
+  position: relative;
+
+}
+
+span.multiselect-native-select select {
+	border: 0!important;
+	clip: rect(0 0 0 0)!important;
+	height: 1px!important;
+	margin: -1px -1px -1px -3px!important;
+	overflow: hidden!important;
+	padding: 0!important;
+	position: absolute!important;
+	width: 1px!important;
+	left: 50%;
+  top: 30px;
+}
+.multiselect-container {
+	position: absolute;
+	list-style-type: none;
+	margin: 0;
+  padding: 0;
+}
+.multiselect-container .input-group {
+	margin: 5px
+}
+.multiselect-container>li {
+	padding: 0
+}
+.multiselect-container>li>a.multiselect-all label {
+  font-weight: 700;
+  
+
+}
+.multiselect-container>li.multiselect-group label {
+	margin: 0;
+	padding: 3px 20px 3px 20px;
+	height: 100%;
+  font-weight: 700;
+
+}
+.multiselect-container>li.multiselect-group-clickable label {
+	cursor: pointer
+}
+.multiselect-container>li>a {
+	padding: 0
+}
+.multiselect-container>li>a>label {
+	margin: 0;
+	height: 100%;
+	cursor: pointer;
+	font-weight: 400;
+	padding: 3px 0 3px 30px
+}
+.multiselect-container>li>a>label.radio, .multiselect-container>li>a>label.checkbox {
+	margin: 0
+}
+.multiselect-container>li>a>label>input[type=checkbox] {
+	margin-bottom: 5px
+}
+.btn-group>.btn-group:nth-child(2)>.multiselect.btn {
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px
+}
+.form-inline .multiselect-container label.checkbox, .form-inline .multiselect-container label.radio {
+	padding: 3px 20px 3px 40px
+}
+.form-inline .multiselect-container li a label.checkbox input[type=checkbox], .form-inline .multiselect-container li a label.radio input[type=radio] {
+	margin-left: -20px;
+	margin-right: 0;
+}
