@@ -42,16 +42,16 @@ html {
 
 body,
 p {
-  color:#1C84C5
-  font: 400 1rem/1.5625rem 'Open Sans', sans-serif;
+  color:#0b0769
+  font: 400 1rem/1.5625rem 'Indie Flower', cursive;
 }
 
 .p-large {
-  font: 400 1.125rem/1.625rem 'Open Sans', sans-serif;
+  font: 400 1.125rem/1.625rem 'Indie Flower', cursive;
 }
 
 .p-small {
-  font: 400 0.875rem/1.375rem 'Open Sans', sans-serif;
+  font: 400 0.875rem/1.375rem 'Indie Flower', cursive;
 }
 
 .p-heading {
@@ -69,46 +69,46 @@ p {
 
 h1 {
   color: #484a46;
-  font: 700 2.5rem/3rem 'Montserrat', sans-serif;
+  font: 700 2.5rem/3rem 'Indie Flower', cursive;
 }
 
 h2 {
   color: #484a46;
-  font: 700 1.75rem/2.125rem 'Montserrat', sans-serif;
+  font: 700 1.75rem/2.125rem 'Indie Flower', cursive;
 }
 
 h3 {
   color: #484a46;
-  font: 700 1.375rem/1.75rem 'Montserrat', sans-serif;
+  font: 700 1.375rem/1.75rem 'Indie Flower', cursive;
 }
 
 h4 {
   color: #484a46;
-  font: 700 1.25rem/1.625rem 'Montserrat', sans-serif;
+  font: 700 1.25rem/1.625rem 'Indie Flower', cursive;
 }
 
 h5 {
   color: #484a46;
-  font: 700 1.125rem/1.5rem 'Montserrat', sans-serif;
+  font: 700 1.125rem/1.5rem 'Indie Flower', cursive;
 }
 
 h6 {
   color: #484a46;
-  font: 700 1rem/1.375rem 'Montserrat', sans-serif;
+  font: 700 1rem/1.375rem 'Indie Flower', cursive;
 }
 
 a {
-  color:#1C84C5
+  color:#0b0769
   text-decoration: none;
 }
 
 a:hover {
-  color:#1C84C5
+  color:#0b0769
   text-decoration: underline;
 }
 
 a.green {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 a.white,
@@ -121,7 +121,7 @@ a.white,
 }
 
 .testimonial-author {
-  font: 700 1rem/1.375rem 'Montserrat', sans-serif;
+  font: 700 1rem/1.375rem 'Indie Flower', cursive;
 }
 
 strong {
@@ -129,60 +129,60 @@ strong {
 }
 
 .section-title {
-  color: #1c84c5;
-  font: 500 0.8125rem/1.125rem 'Montserrat', sans-serif;
+  color: #0b0769;
+  font: 500 0.8125rem/1.125rem 'Indie Flower', cursive;
 }
 
 .btn-solid-reg {
   display: inline-block;
   padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-  border: 0.125rem solid#1C84C5;
+  border: 0.125rem solid#0b0769;
   border-radius: 0.25rem;
-  background-color: #1c84c5;
+  background-color: #0b0769;
   color: #fff;
-  font: 700 0.75rem/0 'Montserrat', sans-serif;
+  font: 700 0.75rem/0 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-solid-reg:hover {
   background-color: transparent;
-  color: #1c84c5;
+  color: #0b0769;
   text-decoration: none;
 }
 
 .btn-solid-lg {
   display: inline-block;
   padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-  border: 0.125rem solid#1e94dd;
+  border: 0.125rem solid#0b0769;
   border-radius: 0.25rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
   color: #fff;
-  font: 700 0.75rem/0 'Montserrat', sans-serif;
+  font: 700 0.75rem/0 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-solid-lg:hover {
   background-color: #000;
-  color: #1e94dd;
+  color: #0b0769;
   text-decoration: none;
 }
 
 .btn-outline-reg {
   display: inline-block;
   padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-  border: 0.125rem solid#1C84C5
+  border: 0.125rem solid#0b0769
   border-radius: 0.25rem;
   background-color: transparent;
-  color:#1C84C5
-  font: 700 0.75rem/0 'Montserrat', sans-serif;
+  color:#0b0769
+  font: 700 0.75rem/0 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-reg:hover {
-  background-color:#1C84C5
+  background-color:#0b0769
   color: #fff;
   text-decoration: none;
 }
@@ -190,17 +190,17 @@ strong {
 .btn-outline-lg {
   display: inline-block;
   padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-  border: 0.125rem solid#1C84C5
+  border: 0.125rem solid#0b0769
   border-radius: 0.25rem;
   background-color: transparent;
-  color:#1C84C5
-  font: 700 0.75rem/0 'Montserrat', sans-serif;
+  color:#0b0769
+  font: 700 0.75rem/0 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-lg:hover {
-  background-color:#1C84C5
+  background-color:#0b0769
   color: #fff;
   text-decoration: none;
 }
@@ -208,17 +208,17 @@ strong {
 .btn-outline-sm {
   display: inline-block;
   padding: 1rem 1.625rem 0.9375rem 1.625rem;
-  border: 0.125rem solid#1C84C5
+  border: 0.125rem solid#0b0769
   border-radius: 0.25rem;
   background-color: transparent;
-  color:#1C84C5
-  font: 700 0.75rem/0 'Montserrat', sans-serif;
+  color:#0b0769
+  font: 700 0.75rem/0 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s;
 }
 
 .btn-outline-sm:hover {
-  background-color:#1C84C5
+  background-color:#0b0769
   color: #fff;
   text-decoration: none;
 }
@@ -240,9 +240,9 @@ strong {
   position: absolute;
   top: 0.8125rem;
   left: 1.375rem;
-  color:#1C84C5
+  color:#0b0769
   opacity: 1;
-  font: 400 0.875rem/1.375rem 'Open Sans', sans-serif;
+  font: 400 0.875rem/1.375rem 'Indie Flower', cursive;
   cursor: text;
   transition: all 0.2s ease;
 }
@@ -275,8 +275,8 @@ strong {
   border: 1px solid #dadada;
   border-radius: 0.25rem;
   background-color: #fff;
-  color:#1C84C5
-  font: 400 0.875rem/1.375rem 'Open Sans', sans-serif;
+  color:#0b0769
+  font: 400 0.875rem/1.375rem 'Indie Flower', cursive;
   transition: all 0.2s;
   -webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
@@ -330,8 +330,8 @@ select::-ms-expand {
   border: 1px solid #dadada;
   border-radius: 0.25rem;
   background-color: #fff;
-  color:#1C84C5
-  font: 400 1rem/1.5625rem 'Open Sans', sans-serif;
+  color:#0b0769
+  font: 400 1rem/1.5625rem 'Indie Flower', cursive;
   transition: all 0.2s;
 }
 
@@ -345,11 +345,11 @@ select::-ms-expand {
 .form-control-input:hover,
 .form-control-select:hover,
 .form-control-textarea:hover {
-  border: 1px solid #1C84C5;
+  border: 1px solid #0b0769;
 }
 
 .checkbox {
-  font: 400 0.875rem/1.375rem 'Open Sans', sans-serif;
+  font: 400 0.875rem/1.375rem 'Indie Flower', cursive;
 }
 
 input[type='checkbox'] {
@@ -373,14 +373,14 @@ input[type='checkbox'] {
   border-radius: 0.25rem;
   background-color: #000000;
   color: #fff;
-  font: 700 0.75rem/1.75rem 'Montserrat', sans-serif;
+  font: 700 0.75rem/1.75rem 'Indie Flower', cursive;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .form-control-submit-button:hover {
   background-color: transparent;
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 /* Form Success And Error Message Formatting */
@@ -393,11 +393,11 @@ input[type='checkbox'] {
   display: block;
   margin-bottom: 0;
   color: #b93636;
-  font: 400 1.125rem/1rem 'Open Sans', sans-serif;
+  font: 400 1.125rem/1rem 'Indie Flower', cursive;
 }
 
 .help-block.with-errors .list-unstyled {
-  color:#1C84C5
+  color:#0b0769
   font-size: 0.75rem;
   line-height: 1.125rem;
   text-align: left;
@@ -590,7 +590,7 @@ input[type='checkbox'] {
   right: 0;
   bottom: 0;
   left: 0;
-  background: #1e94dd;
+  background: #0b0769;
 }
 
 .spinner {
@@ -656,10 +656,11 @@ input[type='checkbox'] {
 .navbar-custom {
   padding-top: 0.375rem;
   padding-bottom: 0.375rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
   box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
-  font: 600 0.875rem/0.875rem 'Open Sans', sans-serif;
+  font: 600 0.875rem/0.875rem 'Indie Flower', cursive;
   transition: all 0.2s;
+  width: 100%;
 }
 
 .navbar-custom .navbar-brand {
@@ -675,21 +676,22 @@ input[type='checkbox'] {
 .navbar-custom .navbar-brand.logo-text {
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
-  font: 700 2.25rem/1.5rem 'Montserrat', sans-serif;
+  font: 700 2.25rem/1.5rem 'Indie Flower', cursive;
   color: #fff;
   text-decoration: none;
 }
 
 .navbar-custom .navbar-nav {
-  margin-top: 0.75rem;
+  margin-top: 0.  5rem;
   margin-bottom: 0.5rem;
 }
 
 .navbar-custom .nav-item .nav-link {
-  padding: 0.625rem 0.75rem 0.625rem 0.75rem;
+  padding: 0.525rem 0.65rem 0.525rem 0.65rem;
   color: #fff;
   text-decoration: none;
   transition: all 0.2s ease;
+  font-size: 18px;
 }
 
 .navbar-custom .nav-item .nav-link:hover,
@@ -723,7 +725,7 @@ input[type='checkbox'] {
   margin-top: 0;
   border: none;
   border-radius: 0.25rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
 }
 
 .navbar-custom .dropdown-item {
@@ -732,15 +734,15 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover {
-  background-color: #1e94dd;
+  background-color: #0b0769;
 }
 
 .navbar-custom .dropdown-item .item-text {
-  font: 600 0.875rem/0.875rem 'Open Sans', sans-serif;
+  font: 600 0.875rem/0.875rem 'Indie Flower', cursive;
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -877,13 +879,18 @@ hr .thick-line {
 .cards-1 {
   padding-top: 3rem;
   padding-bottom: 2.875rem;
+  background-image: url(https://www.panachestyle.com/wp-content/uploads/2018/02/James-Bond-Corporate-Party-Suzanne-Delawar-Panache-Style-6.jpg);
+  
 }
 
 .cards-1 .card {
   margin-bottom: 2.5rem;
   border: none;
   text-align: center;
+  background-color: rgba(255,255,255, 0.8);
+  background-size: auto;
 }
+
 
 .cards-1 .fa-stack {
   width: 3rem;
@@ -893,6 +900,7 @@ hr .thick-line {
   margin-left: auto;
   line-height: 6rem;
   text-align: left;
+  padding-top: 10px;
 }
 
 .cards-1 .fa-stack .hexagon {
@@ -977,12 +985,12 @@ hr .thick-line {
 .cards-2 .price {
   margin-bottom: 0.25rem;
   color: #484a46;
-  font: 700 1rem/1.5rem 'Montserrat', sans-serif;
+  font: 700 1rem/1.5rem 'Indie Flower', cursive;
   text-align: center;
 }
 
 .cards-2 .price span {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 .cards-2 .button-container {
@@ -1029,11 +1037,11 @@ hr .thick-line {
   width: 2.25rem;
   height: 2.25rem;
   margin-right: 0.875rem;
-  border: 0.125rem solid#1C84C5;
+  border: 0.125rem solid#0b0769;
   border-radius: 50%;
-  background-color: #1c84c5;
+  background-color: #0b0769;
   color: #fff;
-  font: 700 1rem/2.125rem 'Montserrat', sans-serif;
+  font: 700 1rem/2.125rem 'Indie Flower', cursive;
   text-align: center;
   vertical-align: middle;
   cursor: pointer;
@@ -1047,8 +1055,8 @@ hr .thick-line {
 }
 
 .accordion .item:hover span[aria-expanded='false'] .circle-numbering {
-  border: 0.125rem solid#1C84C5;
-  color: #1c84c5;
+  border: 0.125rem solid#0b0769;
+  color: #0b0769;
 }
 
 .accordion .accordion-title {
@@ -1057,18 +1065,18 @@ hr .thick-line {
   margin-top: 0.125rem;
   margin-bottom: 0.25rem;
   color: #484a46;
-  font: 700 1.25rem/1.75rem 'Montserrat', sans-serif;
+  font: 700 1.25rem/1.75rem 'Indie Flower', cursive;
   vertical-align: middle;
   cursor: pointer;
   transition: all 0.2s ease;
 }
 
 .accordion .item:hover .accordion-title {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 .accordion span[aria-expanded='true'] .accordion-title {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 .accordion .accordion-body {
@@ -1099,14 +1107,14 @@ hr .thick-line {
   border: none;
   border-radius: 0.25rem;
   color: #c1cace;
-  font: 700 1.375rem/1.375rem 'Montserrat', sans-serif;
+  font: 700 1.375rem/1.375rem 'Indie Flower', cursive;
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-  color: #1c84c5;
+  color: #7270b8;
 }
 
 .tabs .nav-link .fas {
@@ -1122,7 +1130,7 @@ hr .thick-line {
 .tabs #tab-1 .progress-container .title {
   margin-bottom: 0.25rem;
   color: #484a46;
-  font: 600 0.875rem/1.25rem 'Open Sans', sans-serif;
+  font: 600 0.875rem/1.25rem 'Indie Flower', cursive;
 }
 
 .tabs #tab-1 .progress {
@@ -1142,7 +1150,7 @@ hr .thick-line {
   display: block;
   padding-left: 1.5rem;
   border-radius: 0.125rem;
-  background: linear-gradient(to bottom right, #1c84c5, #1bd1a7);
+  background: linear-gradient(to bottom right, #0b0769, #1bd1a7);
 }
 
 .tabs #tab-1 .progress-bar.first {
@@ -1172,7 +1180,7 @@ hr .thick-line {
 }
 
 .tabs #tab-2 .list-unstyled .media-bullet {
-  color: #1c84c5;
+  color: #0b0769;
   font-weight: 600;
   font-size: 2rem;
   line-height: 2rem;
@@ -1277,7 +1285,7 @@ hr .thick-line {
 .form-1 {
   padding-top: 1rem;
   padding-bottom: 3rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -1379,13 +1387,13 @@ h4 {
   border-radius: 0.25rem;
   background-color: #f1f4f7;
   color: #7b7e85;
-  font: 700 0.75rem/1.25rem 'Montserrat', sans-serif;
+  font: 700 0.75rem/1.25rem 'Indie Flower', cursive;
   cursor: pointer;
   transition: all 0.2s ease;
 }
 
 .filter .button-group a:hover {
-  background-color: #1c84c5;
+  background-color: #0b0769;
   color: #fff;
 }
 
@@ -1441,7 +1449,7 @@ h4 {
   right: 0;
   left: 0;
   color: #fff;
-  font: 700 1.125rem/1.625rem 'Montserrat', sans-serif;
+  font: 700 1.125rem/1.625rem 'Indie Flower', cursive;
 }
 
 /**********************************/
@@ -1471,7 +1479,7 @@ h4 {
   margin-bottom: 0.625rem;
   margin-left: 0;
   border: none;
-  background-color: #1c84c5;
+  background-color: #0b0769;
 }
 
 .lightbox-basic h6 {
@@ -1568,7 +1576,7 @@ h4 {
 .basic-2 .team-member .job-title {
   margin-bottom: 0.75rem;
   color: #484a46;
-  font: 700 1rem/1.375rem 'Montserrat', sans-serif;
+  font: 700 1rem/1.375rem 'Indie Flower', cursive;
 }
 
 .basic-2 .fa-stack {
@@ -1610,7 +1618,7 @@ h4 {
 .counter {
   padding-top: 6.875rem;
   padding-bottom: 3.875rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
   color: white;
 }
 
@@ -1658,7 +1666,7 @@ h4 {
   display: inline-block;
   margin-bottom: 0.125rem;
   color: #ffffff;
-  font: 700 2.875rem/3.25rem 'Montserrat', sans-serif;
+  font: 700 2.875rem/3.25rem 'Indie Flower', cursive;
   vertical-align: middle;
 }
 
@@ -1742,7 +1750,7 @@ h4 {
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-  color: #1c84c5;
+  color: #0b0769;
 }
 
 /**********************/
@@ -1774,7 +1782,7 @@ h4 {
 .copyright {
   padding-top: 1rem;
   padding-bottom: 0.5rem;
-  background-color: #1e94dd;
+  background-color: #0b0769;
   text-align: center;
 }
 
@@ -1796,13 +1804,13 @@ a.back-to-top {
   width: 2.625rem;
   height: 2.625rem;
   border-radius: 1.875rem;
-  background: #1c84c5 url('../images/up-arrow.png') no-repeat center 47%;
+  background: #0b0769 url('../images/up-arrow.png') no-repeat center 47%;
   background-size: 1.125rem 1.125rem;
   text-indent: -9999px;
 }
 
 a:hover.back-to-top {
-  background-color: #1C84C5;
+  background-color: #0b0769;
 }
 
 /***************************/
@@ -1888,6 +1896,7 @@ a:hover.back-to-top {
     padding: 2.125rem 1.5rem 2.125rem 2rem;
     box-shadow: none;
     background: transparent;
+    width: 100%;
   }
 
   .navbar-custom .navbar-brand.logo-text {
@@ -1905,13 +1914,13 @@ a:hover.back-to-top {
 
   .navbar-custom .nav-item .nav-link:hover,
   .navbar-custom .nav-item .nav-link.active {
-    color: #1c84c5;
+    color: #7774c9;
   }
 
   .navbar-custom.top-nav-collapse {
     padding: 0.375rem 1.5rem 0.375rem 2rem;
     box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
-    background-color: #1e94dd;
+    background-color: #0b0769;
   }
 
   .navbar-custom.top-nav-collapse .navbar-brand.logo-text {
@@ -1924,7 +1933,7 @@ a:hover.back-to-top {
 
   .navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
   .navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-    color: #9096f0;
+    color: #7674bd;
   }
 
   .navbar-custom .dropdown-menu {
@@ -1957,7 +1966,7 @@ a:hover.back-to-top {
   }
 
   .header h1 {
-    font: 700 3.5rem/4rem 'Montserrat', sans-serif;
+    font: 700 3.5rem/4rem 'Indie Flower', cursive;
     margin-top: 2rem;
   }
   .header .text-container {
@@ -2090,7 +2099,7 @@ a:hover.back-to-top {
   }
 
   .navbar-custom .fa-stack:hover .fa-stack-1x {
-    color: #1c84c5;
+    color: #0b0769;
   }
   /* end of navigation */
 
@@ -2721,7 +2730,7 @@ li {
 
 .fa-twitter:hover,
 .fa-twitter:focus {
-  color: #1e94dd;
+  color: #0b0769;
   transform: scale(1.1);
 }
 
@@ -2864,8 +2873,8 @@ li {
   opacity: 0.95;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
-  background:black;
+  background-position: center cover;
+  background: black;
   z-index: 2;
   top: -20%;
   left: -20%;
@@ -3360,22 +3369,27 @@ span.multiselect-native-select select {
 	height: 100%;
 	cursor: pointer;
 	font-weight: 400;
-	padding: 3px 0 3px 30px
+	padding: 3px 0 3px 30px;
 }
 .multiselect-container>li>a>label.radio, .multiselect-container>li>a>label.checkbox {
-	margin: 0
+	margin: 0;
 }
 .multiselect-container>li>a>label>input[type=checkbox] {
-	margin-bottom: 5px
+	margin-bottom: 5px;
 }
 .btn-group>.btn-group:nth-child(2)>.multiselect.btn {
 	border-top-left-radius: 4px;
-	border-bottom-left-radius: 4px
+	border-bottom-left-radius: 4px;
 }
 .form-inline .multiselect-container label.checkbox, .form-inline .multiselect-container label.radio {
-	padding: 3px 20px 3px 40px
+	padding: 3px 20px 3px 40px;
 }
 .form-inline .multiselect-container li a label.checkbox input[type=checkbox], .form-inline .multiselect-container li a label.radio input[type=radio] {
 	margin-left: -20px;
 	margin-right: 0;
+}
+
+.mini-header strong{
+  font-family: 'Monoton', cursive;
+
 }
